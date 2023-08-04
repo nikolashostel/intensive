@@ -1,1 +1,3 @@
 @ 2sent-1 S '23'
+def capitalize(String):
+    return String.title()
