@@ -384,3 +384,12 @@ if (!window["App"]) throw new Error("Critical Error in Application");
 
     App.Core.Registry(lib, "units_forms"); //Регистрация модуля в ядре
 })(App);
+
+
+a = 2
+b = 3
+
+print(a + b) # сложение 
+print(a - b) # вычитание
+print(a * b) # умножение
+print(a / b) # деление
