@@ -396,3 +396,4 @@ print(a / b) # деление
 for class
 for wait
 for FOR wait
+for else
