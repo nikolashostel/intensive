@@ -6,3 +6,4 @@ print(a - b) # вычитание
 print(a * b) # умножение
 print(a / b) # деление
 print tower
+insert flow
