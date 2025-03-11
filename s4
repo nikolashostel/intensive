@@ -1,3 +1,4 @@
 >>> a *= 8
 >>> print(a)
 inj insert
+pops 44
